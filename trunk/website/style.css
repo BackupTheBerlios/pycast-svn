@@ -1,0 +1,156 @@
+body {
+	background-color: #6baeef;
+}
+
+/* PAGE LAYOUT */
+
+div.container {
+	position: relative;
+	margin: 0 auto;
+	width: 810px;
+	height: 432px;
+}
+
+div.left {
+	position: fixed;
+	top: 80px;
+	left: auto;
+	width: 200px;
+	height: auto;
+    color: #000000;
+    font-family: "Sans", sans-serif;
+    font-weight: bold;
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #39619c;
+    border-width: 8px;
+	vertical-align: text-top;        
+ 	padding: 10px; 
+}
+
+div.top {
+	position: fixed;
+	top: 0px;
+	left: auto;
+	width: 780px;
+	height: 60px;
+	color: #ffffff;
+    background-color: transparent;
+    font-family: sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: left;
+ 	padding: 10px; 
+}
+
+div.main {
+	position: absolute;
+	top: 10px;
+	left: 245px;
+	width: 580px;
+	height: auto;
+	background-color: #ffffff;  
+    color: #000000;
+    vertical-align: text-top;
+    border-style: solid;
+    border-color: #39619c;
+    border-width: 8px;    
+	padding: 10px; 
+	font: small "Sans", sans-serif;                 
+}       
+
+/* FORMATTING */  
+  
+h1 {
+/* heading */
+	text-align: left;
+	font-size: large; 
+	font-weight: bold; 
+	font-family: sans-serif;
+	margin-bottom: 0;
+	color: #000000;
+}
+h2 {
+/* heading comment */
+	text-align: left;
+	font-size: small;
+	font-weight: normal; 
+	font-style: italic;
+	margin-top: 0;
+	margin-bottom: 5px;
+	font-family: sans-serif;
+	color: #000000;
+}
+h3 {
+/* sub heading */
+	text-align: left;
+	font-size: medium; 
+	font-weight: bold; 
+	margin-bottom:5px;
+	font-family: sans-serif;
+	color: #000000;
+}
+h4 {
+/* body text */
+	text-align: left;
+	font-size: small; 
+	font-weight: normal;
+	margin-top: 0; 
+	margin-bottom: 0;
+	font-family: sans-serif;
+	color: #000000;
+}
+h5 {
+/* code */
+	text-align: left;
+	font-size: small; 
+	font-weight: normal; 
+	margin-left: 10px;
+	font-family: monospace;
+	color: #000000;
+}
+pre {
+/* code */
+        text-align: left;
+        font-size: small;
+        font-weight: normal;
+        margin-left: 10px;
+        font-family: monospace;
+        color: #000000;
+}
+
+h6 {
+/* page bottom */
+	text-align: center;
+	font-size: small; 
+	font-weight: bold; 
+	font-family: sans-serif;
+	color: #ffffff;
+}
+a {
+	color: #39619c; 
+	font-weight: bold;
+	font-size: medium;
+	font-family: sans-serif; 
+        text-decoration: none;
+}
+a:hover {
+	color: #6baaef; 
+	font-weight: bold;
+	font-size: medium;
+	font-family: sans-serif; 
+        text-decoration: none;
+}
+.hr {
+
+	padding: 5px;
+	color: #6baaef;
+}
+
+.email {
+	color: #6baeef; 
+	font-weight: bold;
+	font-size: medium;
+	font-family: sans-serif; 
+        text-decoration: none;
+}

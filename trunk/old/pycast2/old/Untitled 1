@@ -1,0 +1,78 @@
+
+
+  ### Add Cast Dialog     
+  def AddCastDialog(self,widget):
+    '''Opens the Add Cast Dialog'''
+    self.wAddCast=gtk.glade.XML ("pycast.glade","addcast")
+    dic = { "on_addcastok" : (self.AddCastDialogOk),
+            "on_addcastcancel" : (self.AddCastDialogCancel)}
+    self.wAddCast.signal_autoconnect (dic) 
+           
+  def AddCastDialogOk(self,widget):
+    '''When the Add Cast Dialog's OK button is hit'''
+    window=self.wAddCast.get_widget("addcast")
+    txtAddCastName = self.wAddCast.get_widget("tAddCastName").get_text()
+    txtAddCastUrl = self.wAddCast.get_widget("tAddCastUrl").get_text()
+    close=True
+    for name in Casts.names:
+      if self.wAddCast.get_widget("tAddCastName").get_text() == name:
+        self.wAddCast.get_widget("tAddCastName").set_text("Name Already Used") 
+        close=False
+    if close is True:
+      if self.wAddCast.get_widget("cAddCastUpdate").get_mode() is True: 
+        val="1"
+      else:
+        val="0"
+      Casts.add_cast(txtAddCastName,txtAddCastUrl,val)
+      Casts.write()
+      self.UpdateCastDisplay()
+      window.destroy()
+
+  def AddCastDialogCancel(self,widget):
+    '''When the add cast dialog's cancel button is hit'''
+    window=self.wAddCast.get_widget("addcast")
+    window.destroy()
+      ### Edit Cast Dialog        
+  def EditCastDialog(self,widget):
+    '''Opens the Edit Cast dialog'''
+    self.wEditCast=gtk.glade.XML ("pycast.glade","editcast")
+    dic = { "on_editcastok" : (self.EditCastDialogOk),
+            "on_editcastcancel" : (self.EditCastDialogCancel)}
+    self.wEditCast.signal_autoconnect (dic) 
+                
+                                
+  def EditCastDialogOk(self,widget):
+    '''Actions when OK is hit on the Edit Cast Dialog'''
+    window=self.wEditCast.get_widget("editcast")
+    window.destroy()
+
+
+  def EditCastDialogCancel(self,widget):
+    '''Actions when Cancel is hit on the Edit cast dialog'''
+    window=self.wEditCast.get_widget("editcast")
+    window.destroy()
+    
+    
+    
+    
+    
+    
+    
+    
+    
+              try:
+            enclosureurl=entry.enclosures[0].url
+            enclosuretype=entry.enclosures[0].type
+            ExistingEntries = Rss.select(RSSDB,['name','title','description','link','enclosure',],  
+                                                      ['','','','',''],['name','title','description','link','enclosure',])
+            NewEntry = [cast[0],datetime.datetime.now(),
+                                  str(entry.title),str(entry.summary),
+                                  str(entry.link),str(enclosureurl),
+                                  str(enclosuretype),False,'na','na']
+            NewEntryCut = [NewEntry[0]]+NewEntry[2:6]   
+            if debug==True: print "AND HERE?2"  
+            if NewEntryCut not in ExistingEntries:
+              Rss.insert(RSSDB,NewEntry)
+              print "Added: "+entry.title
+          except AttributeError:
+            pass   

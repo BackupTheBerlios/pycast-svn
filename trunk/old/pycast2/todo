@@ -1,0 +1,34 @@
+  ~ pyCast roadmap ~
+
+  ++ Download and store information 
+  ++ Update stored RSS information  
+  -- Display podcasts 
+  +- Download podcasts  
+  -- Update podcasts
+---- Release 0.1
+
+  -- Go into bugfix mode
+  -- Add logical features
+  -- Make more threadsafe
+---- Release 0.2
+      
+  -- OPML support
+  -- Automated downloads
+  -- Website Release
+---- Release 0.3
+
+  -- Go into bugfix mode
+  -- Add logical features
+  -- Crossplatformity - OSX
+  -- Release on GNOME Files
+  -- Email Curry
+---- Release 0.4
+
+Later on...
+
+  -- Windows support
+  -- Bittorrent
+  -- Try before you subscribe
+  -- More options with podcasts and keepin em
+  -- Add from ipodder directory
+  -- Full RSS aggregator 

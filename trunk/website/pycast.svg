@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   width="20.000000cm"
+   height="12.000000cm"
+   id="svg1"
+   sodipodi:version="0.32"
+   inkscape:version="0.40"
+   sodipodi:docname="pycast.svg"
+   sodipodi:docbase="/home/iphitus/pycast/website"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:xml="http://www.w3.org/XML/1998/namespace"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   inkscape:export-filename="/home/iphitus/pycast/website/pycast.png"
+   inkscape:export-xdpi="72.000000"
+   inkscape:export-ydpi="72.000000">
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient4213">
+      <stop
+         style="stop-color:#979d97;stop-opacity:1.0000000;"
+         offset="0.0000000"
+         id="stop4214" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4215" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4206">
+      <stop
+         style="stop-color:#7d7a78;stop-opacity:1;"
+         offset="0"
+         id="stop4207" />
+      <stop
+         style="stop-color:#7d7a78;stop-opacity:0;"
+         offset="1"
+         id="stop4208" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4201">
+      <stop
+         style="stop-color:#ffbd31;stop-opacity:1.0000000;"
+         offset="0.0000000"
+         id="stop4202" />
+      <stop
+         style="stop-color:#ff9a00;stop-opacity:0.0000000;"
+         offset="1.0000000"
+         id="stop4203" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4201"
+       id="radialGradient4205"
+       gradientTransform="matrix(0.793024,0.000000,0.000000,1.260995,-285.0342,-63.34094)"
+       cx="449.42795"
+       cy="106.29161"
+       fx="449.42795"
+       fy="106.29161"
+       r="89.775864"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4206"
+       id="radialGradient4209"
+       gradientTransform="matrix(0.442934,0.000000,0.000000,2.257672,-285.0342,-63.34094)"
+       cx="813.46600"
+       cy="60.100712"
+       fx="813.46600"
+       fy="60.100712"
+       r="120.25549"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4206"
+       id="radialGradient4210"
+       gradientTransform="matrix(0.442934,0.000000,0.000000,2.257672,-285.0342,-63.34094)"
+       cx="813.46600"
+       cy="60.100712"
+       fx="813.46600"
+       fy="60.100712"
+       r="120.25549"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4206"
+       id="radialGradient4211"
+       gradientTransform="matrix(0.442934,0.000000,0.000000,2.257672,-285.0342,-63.34094)"
+       cx="813.46600"
+       cy="60.100712"
+       fx="813.46600"
+       fy="60.100712"
+       r="120.25549"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4206"
+       id="radialGradient4212"
+       gradientTransform="matrix(0.442934,0.000000,0.000000,2.257672,-285.0342,-63.34094)"
+       cx="813.46600"
+       cy="60.100712"
+       fx="813.46600"
+       fy="60.100712"
+       r="120.25549"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.43415837"
+     inkscape:cx="601.69033"
+     inkscape:cy="295.13047"
+     inkscape:current-layer="layer1"
+     borderlayer="top"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="849"
+     inkscape:window-height="559"
+     inkscape:window-x="510"
+     inkscape:window-y="37" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF
+       id="RDF5">
+      <cc:Work
+         rdf:about=""
+         id="Work6">
+        <dc:format
+           id="format7">image/svg+xml</dc:format>
+        <dc:type
+           id="type9"
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:72.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7e7e7b;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Teen;text-anchor:start;writing-mode:lr"
+       x="25.912205"
+       y="149.9501"
+       id="text1061"
+       sodipodi:linespacing="100%"
+       transform="translate(98.01336,-79.89570)"><tspan
+         x="25.912205"
+         y="149.95010"
+         sodipodi:role="line"
+         id="tspan2325">pyCast</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#848282;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Teen;text-anchor:start;writing-mode:lr"
+       x="25.912205"
+       y="149.9501"
+       id="text1687"
+       sodipodi:linespacing="100%"
+       transform="translate(104.9883,-51.09035)"><tspan
+         x="25.912205"
+         y="149.95010"
+         sodipodi:role="line"
+         id="tspan2331">podcast aggregator</tspan></text>
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#ffbd29;stroke-width:3.7500000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
+       d="M 209.18794,77.276668 L 354.62518,77.276668"
+       id="path2333" />
+    <path
+       style="fill:url(#radialGradient4205);fill-opacity:1.0000000;fill-rule:evenodd;stroke:url(#radialGradient4212);stroke-width:5.0000000;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+       d="M 71.207620,40.010208 C 25.740190,41.569578 28.115350,97.395138 72.225540,98.018888 C 58.653170,80.930868 59.331800,58.662128 71.207620,40.010208 z "
+       id="path2955"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:url(#radialGradient4211);stroke-width:5.7435231;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:5.7435230 5.7435230 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+       d="M 78.830020,52.034118 C 89.687920,61.231848 89.348610,76.797228 77.812100,82.811138"
+       id="path3577"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:url(#radialGradient4210);stroke-width:5.8918939;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:5.8918936 5.8918936 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+       d="M 91.056140,41.698158 C 101.91404,58.243418 101.57473,86.243028 90.038220,97.061098"
+       id="path3578"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:url(#radialGradient4209);stroke-width:5.7295990;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:5.7295988 5.7295988 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+       d="M 103.80299,36.366987 C 114.66089,56.961658 114.32158,91.814168 102.78507,105.27993"
+       id="path3579"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#848282;fill-opacity:1.0000000;stroke:none;stroke-width:5.7066312;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+       id="rect4220"
+       width="637.98633"
+       height="298.08536"
+       x="38.284821"
+       y="120.06851"
+       ry="20.897678"
+       inkscape:export-filename="/home/iphitus/pycast/website/text.png"
+       inkscape:export-xdpi="84.639999"
+       inkscape:export-ydpi="84.639999" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1.0000000;stroke:none;stroke-width:5.7066312;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+       id="rect1876"
+       width="155.48866"
+       height="278.74478"
+       x="48.464142"
+       y="129.73880"
+       ry="15.948974"
+       inkscape:export-filename="/home/iphitus/pycast/website/text.png"
+       inkscape:export-xdpi="84.639999"
+       inkscape:export-ydpi="84.639999" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;color:#000000;fill:#827f78;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:block;font-family:Sans;letter-spacing:0.0000000;text-anchor:start;writing-mode:lr"
+       x="735.96161"
+       y="106.47222"
+       id="text4221"
+       sodipodi:linespacing="100%"
+       transform="translate(-206.3849,-58.71545)"><tspan
+         sodipodi:role="line"
+         id="tspan4222"
+         style="stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;font-family:Sans"
+         x="735.96161"
+         y="106.47222">Latest Version</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;color:#000000;fill:#827f78;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:block;font-family:Sans;letter-spacing:0.0000000;text-anchor:start;writing-mode:lr"
+       x="735.96161"
+       y="106.47222"
+       id="text4224"
+       sodipodi:linespacing="100%"
+       transform="translate(-139.5109,-31.91536)"><tspan
+         x="735.96161"
+         y="106.47222"
+         sodipodi:role="line"
+         id="tspan4227"
+         style="stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none">0.1 pre1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;color:#000000;fill:#ffbd29;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:block;font-family:Sans;letter-spacing:0.0000000;text-anchor:start;writing-mode:lr"
+       x="735.96161"
+       y="106.47222"
+       id="text4239"
+       sodipodi:linespacing="100%"
+       transform="translate(-167.8050,-5.734142)"><tspan
+         x="735.96161"
+         y="106.47222"
+         sodipodi:role="line"
+         id="tspan4240"
+         style="stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none">Download</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1.0000000;stroke:none;stroke-width:5.7066312;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+       id="rect4246"
+       width="448.65179"
+       height="278.74478"
+       x="216.93112"
+       y="129.73882"
+       ry="15.948974"
+       inkscape:export-filename="/home/iphitus/pycast/website/text.png"
+       inkscape:export-xdpi="84.639999"
+       inkscape:export-ydpi="84.639999" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;color:#000000;fill:#ffbd29;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:block;font-family:Sans;letter-spacing:0.0000000;text-anchor:start;writing-mode:lr"
+       x="735.96161"
+       y="106.47222"
+       id="text4247"
+       sodipodi:linespacing="100%"
+       transform="translate(-670.1970,59.53476)"
+       inkscape:export-filename="/home/iphitus/pycast/website/text.png"
+       inkscape:export-xdpi="84.639999"
+       inkscape:export-ydpi="84.639999"><tspan
+         x="735.96161"
+         y="106.47222"
+         sodipodi:role="line"
+         id="tspan4274"
+         style="stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none">News</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;color:#000000;fill:#ffbd29;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:block;font-family:Sans;letter-spacing:0.0000000;text-anchor:start;writing-mode:lr"
+       x="735.96161"
+       y="106.47222"
+       id="text4252"
+       sodipodi:linespacing="100%"
+       transform="translate(-669.5268,85.70806)"
+       inkscape:export-filename="/home/iphitus/pycast/website/text.png"
+       inkscape:export-xdpi="84.639999"
+       inkscape:export-ydpi="84.639999"><tspan
+         x="735.96161"
+         y="106.47222"
+         sodipodi:role="line"
+         id="tspan4255"
+         style="stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none">About</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;color:#000000;fill:#ffbd29;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:block;font-family:Sans;letter-spacing:0.0000000;text-anchor:start;writing-mode:lr"
+       x="735.96161"
+       y="106.47222"
+       id="text4257"
+       sodipodi:linespacing="100%"
+       transform="translate(-670.5189,112.4272)"
+       inkscape:export-filename="/home/iphitus/pycast/website/text.png"
+       inkscape:export-xdpi="84.639999"
+       inkscape:export-ydpi="84.639999"><tspan
+         x="735.96161"
+         y="106.47222"
+         sodipodi:role="line"
+         id="tspan4272"
+         style="stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none">Screenshots</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;color:#000000;fill:#ffbd29;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:block;font-family:Sans;letter-spacing:0.0000000;text-anchor:start;writing-mode:lr"
+       x="735.96161"
+       y="106.47222"
+       id="text4262"
+       sodipodi:linespacing="100%"
+       transform="translate(-668.8833,139.6104)"
+       inkscape:export-filename="/home/iphitus/pycast/website/text.png"
+       inkscape:export-xdpi="84.639999"
+       inkscape:export-ydpi="84.639999"><tspan
+         x="735.96161"
+         y="106.47222"
+         sodipodi:role="line"
+         id="tspan4265"
+         style="stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none">Download</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;color:#000000;fill:#ffbd29;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:block;font-family:Sans;letter-spacing:0.0000000;text-anchor:start;writing-mode:lr"
+       x="735.96161"
+       y="106.47222"
+       id="text4267"
+       sodipodi:linespacing="100%"
+       transform="translate(-667.9391,165.3914)"
+       inkscape:export-filename="/home/iphitus/pycast/website/text.png"
+       inkscape:export-xdpi="84.639999"
+       inkscape:export-ydpi="84.639999"><tspan
+         x="735.96161"
+         y="106.47222"
+         sodipodi:role="line"
+         id="tspan4270"
+         style="stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none">Links</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;color:#000000;fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:block;font-family:Sans;letter-spacing:0.0000000;text-anchor:start;writing-mode:lr"
+       x="735.96161"
+       y="106.47222"
+       id="text4276"
+       sodipodi:linespacing="100%"
+       transform="translate(-496.1910,58.45306)"
+       inkscape:export-filename="/home/iphitus/pycast/website/text.png"
+       inkscape:export-xdpi="84.639999"
+       inkscape:export-ydpi="84.639999"><tspan
+         x="735.96161"
+         y="106.47222"
+         sodipodi:role="line"
+         id="tspan4902"
+         style="stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none">First Release 0.1 pre1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;color:#000000;fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:block;font-family:Times New Roman;letter-spacing:0.0000000;text-anchor:start;writing-mode:lr"
+       x="735.96161"
+       y="106.47222"
+       id="text4904"
+       sodipodi:linespacing="100%"
+       transform="translate(-496.6054,85.99136)"
+       inkscape:export-xdpi="84.639999"
+       inkscape:export-ydpi="84.639999"
+       inkscape:export-filename="/home/iphitus/pycast/website/text.png"><tspan
+         x="735.96161"
+         y="106.47222"
+         sodipodi:role="line"
+         id="tspan4909"
+         style="stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none">Yep, ive finaly done some work and you can grab the first release of </tspan><tspan
+         x="735.96161"
+         y="120.47222"
+         sodipodi:role="line"
+         id="tspan4911"
+         style="stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none">pycast here!</tspan></text>
+  </g>
+</svg>
